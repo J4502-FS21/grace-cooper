@@ -20,11 +20,11 @@ ul {
 
 a {
   text-decoration: none;
-  color: #10A8A8
+  color: #0A7070
 }
 
 a:hover {
-  color: #C46D5E
+  color: #1EEBEB
 }
 
 img {width:100%;
@@ -40,7 +40,7 @@ h1{
 h2{
   font-family: 'Suez One', serif;
   font-size: 2rem;
-  color: #F56960;
+  color: #10A8A8;
 }
 
 hr {
