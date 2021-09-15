@@ -1,6 +1,6 @@
 body {
-  background: #FFFFFF;
-  text-align: center*;
+  background: #F3C98B;
+  text-align: center;
   font-family: "Helvetica", "Arial", sans-serif;
   width: 90%;
   max-width: 600px;
@@ -20,21 +20,19 @@ ul {
 
 a {
   text-decoration: none;
-  color: red
+  color: #10A8A8
   font-weight: bold;
-  border: 1px solid purple;
-  background-color: lightgray;
 }
 
 a:hover {
-  color: gold
+  color: #C46D5E
 }
 
 img {width:100%;}
 
 h1, h2 {
   font-size: 2rem;
-  color: purple;
+  color: #F56960;
 }
 
 hr {
