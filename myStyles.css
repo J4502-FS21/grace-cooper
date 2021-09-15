@@ -1,7 +1,7 @@
 body {
   background: #F3C98B;
   text-align: center;
-  font-family: "Helvetica", "Arial", sans-serif;
+  font-family: 'Montserrat', sans-serif;;
   width: 90%;
   max-width: 600px;
   margin: auto;
@@ -21,16 +21,24 @@ ul {
 a {
   text-decoration: none;
   color: #10A8A8
-  font-weight: bold;
 }
 
 a:hover {
   color: #C46D5E
 }
 
-img {width:100%;}
+img {width:100%;
+  border: 0px;
+}
 
-h1, h2 {
+h1{
+  font-family: 'Montserrat', sans-serif, 900;
+  font-size: 4rem;
+  color: #F56960;
+}
+
+h2{
+  font-family: 'Suez One', serif;
   font-size: 2rem;
   color: #F56960;
 }
