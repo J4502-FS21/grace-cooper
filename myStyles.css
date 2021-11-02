@@ -2,7 +2,6 @@
   padding: 60px;
   text-align: center;
   background: #564787;
-  color: white;
   font-size: 30px;
 }
 
@@ -18,7 +17,8 @@ body {
 
 
 nav {
-  background: darkgray
+  display: block;
+  background: #564787;
   color: yellow
 }
 
