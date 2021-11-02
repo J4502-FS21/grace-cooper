@@ -90,3 +90,8 @@ tr:nth-child(even) {
 tr:nth-child(odd) {
   background: #FFF
 }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
