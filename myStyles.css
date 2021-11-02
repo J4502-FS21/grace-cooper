@@ -36,8 +36,8 @@ a:hover {
 }
 
 .button {
-  background-color: #4CAF50; /* Green */
-  border: none;
+  background-color: #4CAF50;
+  border: 1px;
   color: white;
   padding: 15px 32px;
   text-align: center;
