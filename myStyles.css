@@ -1,3 +1,11 @@
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #564787;
+  color: white;
+  font-size: 30px;
+}
+
 body {
   background: #F3C98B;
   text-align: center;
